@@ -22,3 +22,4 @@ The correct flag is: fh453n3fk45b384gm$&%#fjksdfmo94853ff
 
 Approach
 In this CTF, the key is focusing on file metadata rather than the video content itself. The creepy narrative serves as a wrapper for a straightforward metadata examination challenge.
+
